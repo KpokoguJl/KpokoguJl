@@ -8,13 +8,13 @@
 
 **Languages and Tools:**
 
-<img src="media/python.svg" width="35"/>
-<img src="media/Java.svg" width="40"/>
-<img src="media/c-sharp-c.svg" width="35"/>
-<img src="media/Intelij_IDEA.svg" width="40"/>
-<img src="media/TestRail.svg" width="35"/>
-<img src="media/postgresql.svg" width="50"/>
-<img src="media/GitHub.svg" width="40"/>
+<code><img src="media/python.svg" width="35"/></code>
+<code><img src="media/Java.svg" width="40"/></code>
+<code><img src="media/c-sharp-c.svg" width="35"/></code>
+<code><img src="media/Intelij_IDEA.svg" width="40"/></code>
+<code><img src="media/TestRail.svg" width="35"/></code>
+<code><img src="media/postgresql.svg" width="50"/></code>
+<code><img src="media/GitHub.svg" width="40"/></code>
 
 
 
