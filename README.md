@@ -8,13 +8,13 @@
 
 **Languages and Tools:**
 
-<img src="/home/sergey/IdeaProjects/qa_guru_13/media/python.svg" width="35"/>
-<img src="/home/sergey/IdeaProjects/qa_guru_13/media/Java.svg" width="40"/>
-<img src="/home/sergey/IdeaProjects/qa_guru_13/media/c-sharp-c.svg" width="35"/>
-<img src="/home/sergey/IdeaProjects/qa_guru_13/media/Intelij_IDEA.svg" width="40"/>
-<img src="/home/sergey/IdeaProjects/qa_guru_13/media/TestRail.svg" width="35"/>
-<img src="/home/sergey/IdeaProjects/qa_guru_13/media/postgresql.svg" width="50"/>
-<img src="/home/sergey/IdeaProjects/qa_guru_13/media/GitHub.svg" width="40"/>
+<img src="media/python.svg" width="35"/>
+<img src="media/Java.svg" width="40"/>
+<img src="media/c-sharp-c.svg" width="35"/>
+<img src="media/Intelij_IDEA.svg" width="40"/>
+<img src="media/TestRail.svg" width="35"/>
+<img src="media/postgresql.svg" width="50"/>
+<img src="media/GitHub.svg" width="40"/>
 
 
 
