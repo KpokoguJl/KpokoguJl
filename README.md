@@ -21,10 +21,10 @@
 <a href="https://github.com/kpokogujl/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kpokogujl&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a>
 
 # Диплом
-<code><img src="media/qaguruLogo.svg" width="100" align="middle"></code>
+<code><img src="media/qaguruLogo.svg"></code>
 
 В рамках обучения в школе <a href="QA.GURU">QA.GURU</a> была подготовлена выпускная работа.
-В работе 3 части, затрагивающие автоматизацию UI, API и Mobile.
+Работа состоит из трех частей: автоматизация UI, API и Mobile App.
 
 **Проект UI автотестов**
 ------------------------
