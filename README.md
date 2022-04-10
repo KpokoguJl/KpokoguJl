@@ -28,26 +28,26 @@
 
 **Проект UI автотестов**
 ------------------------
-<code><img src="media/GitHub.svg" width="20"/></code> <a href="https://github.com/KpokoguJl/qa_guru_diplom_ui">Github</a>
+<a href="https://github.com/KpokoguJl/qa_guru_diplom_ui"><img src="media/GitHub.svg" width="25"/> Github</a>
 
-<code><img src="media/Jenkins.svg" width="20"/></code> <a href="https://jenkins.autotests.cloud/job/C10_SergeyChikov_qa_guru_10_diplom_ui/">Jenkins</a>
+<a href="https://jenkins.autotests.cloud/job/C10_SergeyChikov_qa_guru_10_diplom_ui/"> <img src="media/Jenkins.svg" width="20"/> Jenkins</a>
 
-<code><img src="media/Allure-logo.svg" width="20"/></code> <a href="https://allure.autotests.cloud/project/1122/dashboards/1985">Allure TestOps Dashboard</a>
+<a href="https://allure.autotests.cloud/project/1122/dashboards/1985"><img src="media/Allure-logo.svg" width="20"/> Allure TestOps Dashboard</a>
 
 
 **Проект API автотестов**
 ------------------------
-<code><img src="media/GitHub.svg" width="20"/></code> <a href="https://github.com/KpokoguJl/qa_guru_diplom_api">Github</a>
+<a href="https://github.com/KpokoguJl/qa_guru_diplom_api"><img src="media/GitHub.svg" width="25"/> Github</a>
 
-<code><img src="media/Jenkins.svg" width="20"/></code> <a href="https://jenkins.autotests.cloud/job/C10_SergeyChikov_qa_guru_10_diplom_api/">Jenkins</a>
+<a href="https://jenkins.autotests.cloud/job/C10_SergeyChikov_qa_guru_10_diplom_api/"><img src="media/Jenkins.svg" width="20"/> Jenkins</a>
 
-<code><img src="media/Allure-logo.svg" width="20"/></code> <a href="https://allure.autotests.cloud/project/1122/dashboards/2018">Allure TestOps Dashboard</a>
+<a href="https://allure.autotests.cloud/project/1122/dashboards/2018"><img src="media/Allure-logo.svg" width="20"/> Allure TestOps Dashboard</a>
 
 
 **Проект Mobile автотестов**
 ------------------------
-<code><img src="media/GitHub.svg" width="20"/></code> <a href="https://github.com/KpokoguJl/qa_guru_diplom_mobile">Github</a>
+<a href="https://github.com/KpokoguJl/qa_guru_diplom_mobile"><img src="media/GitHub.svg" width="25"/> Github</a>
 
-<code><img src="media/Jenkins.svg" width="20"/></code> <a href="https://jenkins.autotests.cloud/job/C10_SergeyChikov_qa_guru_10_diplom_mobile/">Jenkins</a>
+<a href="https://jenkins.autotests.cloud/job/C10_SergeyChikov_qa_guru_10_diplom_mobile/"><img src="media/Jenkins.svg" width="20"/> Jenkins</a>
 
-<code><img src="media/Allure-logo.svg" width="20"/></code> <a href="https://allure.autotests.cloud/project/1122/dashboards/2022">Allure TestOps Dashboard</a>
+<a href="https://allure.autotests.cloud/project/1122/dashboards/2022"><img src="media/Allure-logo.svg" width="20"/> Allure TestOps Dashboard</a>
