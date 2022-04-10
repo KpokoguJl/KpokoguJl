@@ -13,7 +13,7 @@
 <code><img src="media/c-sharp-c.svg" width="35"/></code>
 <code><img src="media/Intelij_IDEA.svg" width="40"/></code>
 <code><img src="media/TestRail.svg" width="35"/></code>
-<code><img src="media/postgresql.svg" width="50"/></code>
+<code><img src="media/postgresql.svg" width="40"/></code>
 <code><img src="media/GitHub.svg" width="40"/></code>
 
 
